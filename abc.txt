@@ -5,3 +5,4 @@ this is branch 1
 master add 1
 branch 1 add line
 branch 2
+branch 6
